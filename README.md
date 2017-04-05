@@ -1,5 +1,5 @@
-#TODO App written in Go
+# TODO App written in Go
 
-#Goals
+# Goals
     - Teach elliot Go
     - Take care of things to do in our lives
